@@ -1,0 +1,129 @@
+{
+  "banks": [
+    {
+      "swift": "BECHCLRM",
+      "name": "Banco Del Estado De Chile",
+      "sbif": "012"
+    },
+    {
+      "swift": "BCHICLRM",
+      "name": "Banco De Chile",
+      "sbif": "001"
+    },
+    {
+      "swift": "BCNPCLRM",
+      "name": "Banco Paris",
+      "sbif": "056"
+    },
+    {
+      "swift": "BHIFCLRM",
+      "name": "Banco Bilbao Vizcaya Argentaria (BBVA)",
+      "sbif": "057"
+    },
+    {
+      "swift": "BICECLRM",
+      "name": "Banco Bice",
+      "sbif": "027"
+    },
+    {
+      "swift": "BPENCLRM",
+      "name": "Banco Penta",
+      "sbif": "055"
+    },
+    {
+      "swift": "BSCHCLRM",
+      "name": "Banco Santander",
+      "sbif": "031"
+    },
+    {
+      "swift": "BSCLCLRM",
+      "name": "Banco Security",
+      "sbif": "039"
+    },
+    {
+      "swift": "CREDCLRM",
+      "name": "Banco De Crédito e Inversiones (BCI)",
+      "sbif": "016"
+    },
+    {
+      "swift": "FALACLRM",
+      "name": "Banco Falabella",
+      "sbif": "049"
+    },
+    {
+      "swift": "ITAUCLRM",
+      "name": "Banco Itau Chile",
+      "sbif": "037"
+    },
+    {
+      "swift": "MNEXCLRM",
+      "name": "Banco Consorcio",
+      "sbif": "054"
+    },
+    {
+      "swift": "RPLYCLRM",
+      "name": "Banco Ripley",
+      "sbif": "051"
+    },
+    {
+      "swift": "RABOCLRM",
+      "name": "Rabobank Chile",
+      "sbif": "053"
+    },
+    {
+      "swift": "BKSACLRM",
+      "name": "Banco Scotiabank",
+      "sbif": "014"
+    },
+    {
+      "swift": "CONBCLRM",
+      "name": "Banco Corpbanca",
+      "sbif": "027"
+    },
+    {
+      "swift": "BLICCLRM",
+      "name": "HSBC Bank Chile",
+      "sbif": "028"
+    },
+    {
+      "swift": "BTGCLRM",
+      "name": "Banco BTG Pactual Chile",
+      "sbif": "059"
+    },
+    {
+      "swift": "BCHCLRM",
+      "name": "Banco Internacional",
+      "sbif": "009"
+    },
+    {
+      "swift": "ITAUCLRM",
+      "name": "Itaú Corpbanca",
+      "sbif": "039"
+    },
+    {
+      "swift": "BRASCLRM",
+      "name": "Banco Do Brasil",
+      "sbif": "017"
+    },
+    {
+      "swift": "CHASCLRM",
+      "name": "JP Morgan Chase Bank",
+      "sbif": "041"
+    },
+    {
+      "swift": "NACNCLRM",
+      "name": "Banco de la Nación Argentina",
+      "sbif": "043"
+    },
+    {
+      "swift": "BOTKCLRM",
+      "name": "The Bank of Tokyo - Mitsubishi UFJ",
+      "sbif": "045"
+    },
+    {
+      "swift": "CHCBCLRM",
+      "name": "China Construction Bank",
+      "sbif": "060"
+    }
+  ]
+}
